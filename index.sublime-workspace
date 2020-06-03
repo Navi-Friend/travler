@@ -1,0 +1,264 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pr",
+				"problems"
+			],
+			[
+				"ra",
+				"raiting_value"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"install package control",
+				"Package Control: Install Local Dependency"
+			],
+			[
+				"Package Control i",
+				"Package Control: Install Package"
+			],
+			[
+				"Install Package Control",
+				"Package Control: Install Package"
+			],
+			[
+				"install packages",
+				"Package Control: Install Package"
+			],
+			[
+				"install package",
+				"Package Control: Install Package"
+			],
+			[
+				"",
+				"Preferences: Settings"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 414.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Konovalov/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/Users/Konovalov/AppData/Roaming/Sublime Text 3/Packages/User/Default (Windows).sublime-keymap",
+		"/C/Users/Konovalov/AppData/Roaming/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/C/Users/Konovalov/AppData/Roaming/Sublime Text 3/Packages/Color Highlighter/ColorHighlighter.sublime-settings",
+		"/C/Users/Konovalov/AppData/Roaming/Sublime Text 3/Packages/SublimeREPL/SublimeREPL.sublime-settings",
+		"/D/PSD макеты/Travler/site/style.css",
+		"/D/PSD макеты/Travler/site/index.html",
+		"/D/python/строчный ввод через пробел.py",
+		"/C/Users/Konovalov/.avocode/.token",
+		"/D/html/keks/project/style.css",
+		"/D/bots/echobot/config.py",
+		"/D/html/keks/project/index.html",
+		"/D/problems/factor.py",
+		"/C/Users/Konovalov/AppData/Roaming/Avocode/Local Storage/leveldb/000005.ldb",
+		"/C/Users/Konovalov/.avocode/.app_path",
+		"/C/Users/Konovalov/.avocode/userdata/904185/documents/1b2e08f902294549a233c2887fd256a9/data.json",
+		"/C/Users/Konovalov/AppData/Local/Temp/Rar$DIa6044.49971/nexa.css",
+		"/D/bots/echobot/echobot.py",
+		"/D/problems/olimpiads/4.py",
+		"/D/стикеры/fun.py",
+		"/D/стикеры/котик.py",
+		"/D/Images/fun.py",
+		"/D/Images/fun.png",
+		"/D/стикеры/бисквит не грусти.png",
+		"/D/problems/olimpiads/3.py",
+		"/D/problems/olimpiads/1.py",
+		"/D/problems/olimpiads/2.py",
+		"/D/parsing/req.py",
+		"/D/parsing/euler.py",
+		"/D/parsing/test.html",
+		"/D/test.html",
+		"/D/req.py",
+		"/D/requests.py",
+		"/D/bots/echobot/vk1.js",
+		"/D/bots/music_bd.sql",
+		"/C/Users/KONOVA~1/AppData/Local/Temp/Rar$DRa5368.40674/Словаь самых популярных паролей.txt",
+		"/C/Users/Konovalov/AppData/Local/Temp/Rar$DIa6712.10216/VirtualBox_constants.py",
+		"/C/Users/Konovalov/AppData/Local/Temp/Rar$DIa6712.8037/__init__.py",
+		"/C/Users/Konovalov/AppData/Local/Temp/Rar$DIa6712.14367/vboxapisetup.py",
+		"/C/Users/Konovalov/AppData/Local/Temp/Rar$DIa6076.4519/INSTALL",
+		"/C/Users/Konovalov/AppData/Local/Temp/Rar$DIa6076.20699/configure",
+		"/D/bots/echobot/! function(e).js",
+		"/D/problems/fibonachi.py",
+		"/D/problems/names.py",
+		"/D/problems/20.py",
+		"/D/боты/echobot.py",
+		"/D/problems/Новый текстовый документ.txt",
+		"/D/problems/21.py",
+		"/D/Программы/python 3/Tools/parser/unparse.py",
+		"/D/python/async.py",
+		"/D/python/policarp.py",
+		"/D/python/Tanya.py",
+		"/D/Программы/sublime text 3/Sublime Text 3/Packages/ActionScript.sublime-package",
+		"/D/Программы/sublime text 3/Sublime Text 3/Packages/Pascal.sublime-package",
+		"/C/Users/Konovalov/Desktop/Package Control (1).sublime-package",
+		"/D/Программы/sublime text 3/Sublime Text 3/Packages/ShellScript.sublime-package",
+		"/D/Программы/sublime text 3/Sublime Text 3/Packages/Package Control.sublime-package",
+		"/D/html/style.css",
+		"/D/html/mycompany.html",
+		"/D/торренты/cs xtream/CS Xtreme v6/game-1.bin",
+		"/D/html/test_tags.html",
+		"/C/Users/Konovalov/Desktop/blue/dist/js/main.min.js",
+		"/C/Users/Konovalov/Desktop/blue/dist/css/style.css",
+		"/D/html/index.html"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 619.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 37.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/Python/Python.sublime-build",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 144.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
